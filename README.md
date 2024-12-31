@@ -13,12 +13,13 @@ conda create --name posture-corrector python=3.8 -y
 conda activate posture-corrector
 ```
 
-**2. Install Required Packages Install the necessary dependencies**
+**2. Install Required Packages**
+- Install the necessary dependencies
 ```bash
 pip install opencv-python mediapipe numpy playsound ipykernel
 ```
 
-**3. Configure IPython Kernel for Jupyter Notebook If you plan to use Jupyter Notebook:**
+**3. Configure IPython Kernel for Jupyter Notebook (If you plan to use Jupyter Notebook)**
 ```bash
 python -m ipykernel install --user --name=posture-corrector --display-name "Python (posture-corrector)"
 ```
