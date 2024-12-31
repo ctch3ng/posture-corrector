@@ -8,6 +8,6 @@ This project is adapted from the original work by [TiffinTech](https://github.co
 
 **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/posture-corrector.git
+git clone https://github.com/ctch3ng/posture-corrector.git
 cd posture-corrector
 ```
