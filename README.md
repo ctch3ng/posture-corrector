@@ -11,3 +11,9 @@ This project is adapted from the original work by [TiffinTech](https://github.co
 git clone https://github.com/ctch3ng/posture-corrector.git
 cd posture-corrector
 ```
+
+**Create and Activate the Virtual Environment Open a terminal and run:**
+```
+conda create --name posture-corrector python=3.8 -y
+conda activate posture-corrector
+```
