@@ -13,7 +13,13 @@ cd posture-corrector
 ```
 
 **Create and Activate the Virtual Environment Open a terminal and run:**
-```
+```bash
 conda create --name posture-corrector python=3.8 -y
 conda activate posture-corrector
 ```
+
+**Install Required Packages Install the necessary dependencies**
+```bash
+pip install opencv-python mediapipe numpy playsound ipykernel
+```
+
