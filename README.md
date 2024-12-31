@@ -23,3 +23,8 @@ conda activate posture-corrector
 pip install opencv-python mediapipe numpy playsound ipykernel
 ```
 
+**Configure IPython Kernel for Jupyter Notebook If you plan to use Jupyter Notebook:**
+```bash
+python -m ipykernel install --user --name=posture-corrector --display-name "Python (posture-corrector)"
+```
+
