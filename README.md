@@ -6,7 +6,8 @@ This project is adapted from the original work by [TiffinTech](https://github.co
 
 ## Installation Steps
 
-**1. Create and Activate the Virtual Environment Open a terminal and run:**
+**1. Create and Activate the Virtual Environment** 
+- Open an Anaconda PowerShell Prompt and run:
 ```bash
 conda create --name posture-corrector python=3.8 -y
 conda activate posture-corrector
