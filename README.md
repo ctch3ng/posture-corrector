@@ -30,7 +30,7 @@ python -m ipykernel install --user --name=posture-corrector --display-name "Pyth
 - Select the kernel `Python (posture-corrector)` by going to `Kernel > Change Kernel` and choosing the correct environment.
 
 **5. Copy and Paste the Code**
-Copy the Python code from the main script (`main.py`) and paste it into a cell in the new notebook.
+- Copy the Python code from the main script (`main.py`) and paste it into a cell in the new notebook.
 
 **6. Run the Notebook**
-Execute the code cell by cell to see the output and interact with the posture corrector project.
+- Execute the code cell by cell to see the output and interact with the posture corrector project.
